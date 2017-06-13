@@ -8,4 +8,8 @@ eureka:
 ums:
   billingServiceName: billing
 
-billingQueueName: billing
+ums:
+  billingQueueName: billing
+
+billing:
+  billingQueueName: billing
