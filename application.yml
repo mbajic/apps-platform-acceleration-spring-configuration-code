@@ -7,3 +7,5 @@ eureka:
 
 ums:
   billingServiceName: billing
+
+billingQueueName: billing
