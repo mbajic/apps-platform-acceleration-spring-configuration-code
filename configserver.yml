@@ -1,8 +1,0 @@
-spring:
-  profiles:
-    active: git
-  cloud:
-    config:
-      server:
-        git:
-          uri: file://Users/pivotal/workspace/apps-platform-acceleration-spring-configuration-code
