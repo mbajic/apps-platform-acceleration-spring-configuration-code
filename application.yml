@@ -1,7 +1,4 @@
 ums:
-  billingServiceName: billing
-
-ums:
   billingQueueName: billing
 
 billing:
