@@ -13,3 +13,5 @@ ums:
 
 billing:
   billingQueueName: billing
+
+billingQueueName: billing
